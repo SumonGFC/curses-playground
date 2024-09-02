@@ -7,5 +7,3 @@ source "https://rubygems.org"
 gem "curses", "~> 1.4"
 
 gem "rubocop", "~> 1.65", require: false
-
-gem "tty-table", "~> 0.12.0"
